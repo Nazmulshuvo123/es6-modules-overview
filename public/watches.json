@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series 88",
+      "price": 399
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Watch 86",
+      "price": 299
+    },
+    {
+      "id": 3,
+      "name": "Garmin Forerunner 25",
+      "price": 449
+    },
+    {
+      "id": 4,
+      "name": "Fitbit Sense 20",
+      "price": 279
+    },
+    {
+      "id": 5,
+      "name": "Polar Vantage M20",
+      "price": 299
+    }
+  ]
